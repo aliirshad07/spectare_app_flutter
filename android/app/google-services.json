@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430582318537",
+    "project_id": "lottery-app-9fd61",
+    "storage_bucket": "lottery-app-9fd61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430582318537:android:6324735413d062b4765418",
+        "android_client_info": {
+          "package_name": "com.example.spectare_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430582318537-sfumae1gdg9gjcp27t5aa7qljc4i77tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzRmG752imGTnVSnT_lioX3rGI8l1uOe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430582318537-sfumae1gdg9gjcp27t5aa7qljc4i77tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
